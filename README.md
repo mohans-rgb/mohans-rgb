@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**mohans-rgb/mohans-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 💫 About Me:
 🔭 I'm currently working on<br>Multi-agent RAG systems and MCP servers for AI agent tooling<br><br>👯 I'm looking to collaborate on<br>Open-source GenAI/agentic AI projects — RAG pipelines, LangGraph agents, MCP tools<br><br>🤝 I'm looking for help with<br>Scaling multi-agent systems and improving retrieval quality in production RAG<br><br>🌱 I'm currently learning<br>Advanced agentic architectures, hybrid retrieval, and cloud-native deployment at scale<br><br>💬 Ask me about<br>RAG pipelines, LangGraph, FastAPI, AWS deployments, or MCP servers<br><br>⚡ Fun fact<br>I built an MCP server that lets any AI agent search flights and track my expenses
 
