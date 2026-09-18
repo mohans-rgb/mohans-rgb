@@ -1,22 +1,62 @@
-# 💫 About Me:
-🔭 I'm currently working on<br>Multi-agent RAG systems and MCP servers for AI agent tooling<br><br>👯 I'm looking to collaborate on<br>Open-source GenAI/agentic AI projects — RAG pipelines, LangGraph agents, MCP tools<br><br>🤝 I'm looking for help with<br>Scaling multi-agent systems and improving retrieval quality in production RAG<br><br>🌱 I'm currently learning<br>Advanced agentic architectures, hybrid retrieval, and cloud-native deployment at scale<br><br>💬 Ask me about<br>RAG pipelines, LangGraph, FastAPI, AWS deployments, or MCP servers<br><br>⚡ Fun fact<br>I built an MCP server that lets any AI agent search flights and track my expenses
+# 👋 Hi, I'm Mohan Sai Mathi
 
-## 🚀 Featured Projects:
-🔹 **[AI Customer Support Agent](https://github.com/mohans-rgb/ecom-cust-support)** — Multi-agent RAG system with LangGraph, NeMo Guardrails, and hybrid retrieval
+**B.Tech CSE Graduate | Aspiring GenAI Engineer | Building Multi-Agent AI Systems**
 
-🔹 **[Document Q&A API](https://github.com/mohans-rgb/rag-api-aws)** — RAG service on AWS Bedrock, deployed via ECS Fargate with full CI/CD
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohan-m-1133003a0/)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohans-rgb)
 
-🔹 **[FinPilot](https://github.com/mohans-rgb/FinPilot)** — MCP server exposing finance & travel tools to AI agents
+---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohan-m-1133003a0/)
+## About Me
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+I'm a **B.Tech CSE graduate** from **Vellore Institute of Technology**, focused on building **LLM-powered applications** and **multi-agent RAG systems**. I design end-to-end pipelines involving retrieval, orchestration, and secure multi-tenant architecture.
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=mohans-rgb&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=mohans-rgb&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=mohans-rgb&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- 🎓 **B.Tech CSE** @ VIT (Vellore Institute of Technology) — CGPA 8.89
+- 🔭 Currently building **multi-agent RAG systems** and **MCP servers** for AI agent tooling
+- 🌱 Learning advanced **agentic architectures**, **hybrid retrieval**, and **cloud-native deployment**
+- 💬 Ask me about RAG pipelines, LangGraph, FastAPI, AWS deployments, or MCP servers
+- ⚡ Fun fact: I built an MCP server that lets any AI agent search flights and track my expenses
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## Tech Stack
+
+**AI / GenAI**
+![LangGraph](https://img.shields.io/badge/LANGGRAPH-1C3C3C?style=for-the-badge) ![LangChain](https://img.shields.io/badge/LANGCHAIN-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![Python](https://img.shields.io/badge/PYTHON-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Qdrant](https://img.shields.io/badge/QDRANT-DC244C?style=for-the-badge) ![Cohere](https://img.shields.io/badge/COHERE-39594C?style=for-the-badge)
+
+**Backend & APIs**
+![FastAPI](https://img.shields.io/badge/FASTAPI-005571?style=for-the-badge&logo=fastapi) ![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+
+**Database & Cloud**
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/POSTGRES-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/REDIS-DD0031?style=for-the-badge&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/DOCKER-0db7ed?style=for-the-badge&logo=docker&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLITE-07405e?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**Tools**
+![Git](https://img.shields.io/badge/GIT-F05033?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GITHUB%20ACTIONS-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
+
+---
+
+## Featured Projects
+
+### 🔹 [AI Customer Support Agent — Multi-Agent RAG System](https://github.com/mohans-rgb/ecom-cust-support)
+*LangGraph | Qdrant | Cohere | NeMo Guardrails | Redis | PostgreSQL*
+- Designed a 5-node LangGraph state machine (guardrail → router → db/rag/ticket) routing queries to 3 specialized agents
+- Implemented hybrid retrieval (dense + BM25 + RRF) with Cohere reranking and a Redis semantic cache
+- Enforced per-user data isolation across all database tools via context-scoped variables
+
+### 🔹 [Document Q&A API — RAG Service on AWS](https://github.com/mohans-rgb/rag-api-aws)
+*FastAPI | AWS Bedrock | S3 | ECS Fargate | PostgreSQL | SQLAlchemy*
+- Built an 8-endpoint FastAPI backend for authenticated PDF upload and RAG-powered chat
+- Designed per-user document isolation using S3 metadata tagging, filtered at query time
+- Shipped a full CI/CD pipeline: GitHub Actions → ECR → ECS Fargate on every push to main
+
+### 🔹 [FinPilot — Personal Finance & Travel MCP Server](https://github.com/mohans-rgb/FinPilot)
+*Python | FastMCP | SQLAlchemy | SerpAPI*
+- Built an MCP server exposing 4 tools (expense logging, listing, deletion, flight search) to any MCP-compatible AI client
+- Integrated a third-party flight-search API with structured error handling
+- Supports both stdio and HTTP transports
+
+---
+
+## 📊 GitHub Stats
+![](https://github-readme-stats.shion.dev/api?username=mohans-rgb&theme=default&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=mohans-rgb&theme=default&hide_border=false&layout=compact)
